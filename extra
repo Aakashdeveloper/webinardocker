@@ -1,0 +1,4 @@
+docker build . -t mywebinar
+docker image ls
+
+docker run -p 7800:3000 imageid
